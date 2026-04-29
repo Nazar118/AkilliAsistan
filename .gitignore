@@ -1,0 +1,19 @@
+# Node.js (Admin Panel ve Mobil için)
+node_modules/
+dist/
+build/
+.expo/
+npm-debug.log*
+
+# Python / Django / API (Backend için)
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+venv/
+env/
+db.sqlite3
+
+# İşletim Sistemi
+Thumbs.db
+.DS_Store
